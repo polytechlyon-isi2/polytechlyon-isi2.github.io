@@ -3,8 +3,8 @@ baseurl:
 permalink: /:categories/:title
 
 # About
-title: Polytech Lyon
-tagline: Module ISI2
+title: ISI2
+tagline: Ingénierie des Systèmes d'Information
 authors:
   - name: Baptiste Pesquet
     url: 'http://bpesquet.fr'
