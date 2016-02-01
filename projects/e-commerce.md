@@ -27,7 +27,7 @@ Voici la liste des exigences techniques :
 
 ## Exigences projet
 
-Chaque projet est réalisé par équipe à l'aide d'une méthodologie de développement pseudo-agile. Les fonctionnalités demandées ("stories") sont regroupées dans le tableau Trello de l'équipe. Le déplacement des stories dans le tableau Trello doit refléter exactement l'avancement du projet.
+Chaque projet est réalisé par équipe à l'aide d'une méthodologie de développement pseudo-agile. Les fonctionnalités demandées ("stories") sont regroupées dans le tableau de l'équipe sur [Trello](https://trello.com/polytechlyon). Le déplacement des stories dans le tableau Trello doit refléter exactement l'avancement du projet.
 
 ### Fini pour une story
 
@@ -53,7 +53,7 @@ Chaque projet est réalisé par équipe à l'aide d'une méthodologie de dévelo
 
 ### Livraison du projet
 
-* Le code source du projet est publié sur GitHub. 
+* Le code source du projet est publié sur [GitHub](https://github.com/polytechlyon-isi2). 
 * Le projet est déployé sur [OpenShift](https://openshift.com). L'URL de déploiement doit être précisée sur la page GitHub du projet.
 
 ![](../assets/e-commerce/github-url.jpeg)

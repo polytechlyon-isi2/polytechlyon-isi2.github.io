@@ -14,7 +14,7 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 * [Guide du développeur PHP](https://www.gitbook.com/book/bpesquet/guide-developpeur-php) (partie 2)
 * [Premiers pas avec le framework PHP Silex](https://openclassrooms.com/courses/premiers-pas-avec-le-framework-php-silex)
 * [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) (partie 1, chapitres 1 et 2)
-* [Evoluez vers une architecture PHP professionnelle](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle)
+* [Evoluez vers une architecture PHP professionnelle](https://openclassrooms.com/courses/evoluez-vers-une-architecture-php-professionnelle). Votre avancement est à reporter sur [cette feuille de calcul](https://docs.google.com/spreadsheets/d/1N_RmtPiF4P5nzzIa_nII2v2Z5hbHvSSP6mov8asClF0/edit?usp=sharing).
 
 ## Projet
 
