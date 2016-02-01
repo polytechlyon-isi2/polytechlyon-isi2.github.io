@@ -1,3 +1,3 @@
-# BTS SIO - Module SLAM5
+# ISI2 - Ingénierie des Systèmes d'Information
 
-Portail Web rassemblant les ressources en ligne du [lycée La Martinière Duchère](http://lmdsio.fr) de Lyon pour le [BTS Services Informatiques aux Organisations](http://www.reseaucerta.org/BTS%20SIO).
+Ressources pédagogiques pour le module ISI2 enseigné à [Polytech Lyon](http://polytech.univ-lyon1.fr/).
