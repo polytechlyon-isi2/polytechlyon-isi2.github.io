@@ -14,11 +14,6 @@ license:
   shortname: CC BY-NC-SA 4.0
   url: http://creativecommons.org/licenses/by-nc-sa/4.0/
   badge: http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png
-  
-# Collections
-collections:
-  addons:
-    output: true
 
 # Default values
 defaults:
@@ -30,5 +25,4 @@ defaults:
         print-link: yes
         about: yes
 
-kramdown:
-  parse_block_html: true
+
