@@ -23,3 +23,4 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 ## Ressources
 
 * [Code pour crypter un mot de passe avec Silex](https://gist.github.com/bpesquet/501c789f01e5bdeda90d)
+* [Code pour gérer une liste déroulante dans un formulaire Symfony](https://gist.github.com/bpesquet/a27232767712c72406c1)
