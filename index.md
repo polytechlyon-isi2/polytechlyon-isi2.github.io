@@ -20,6 +20,10 @@ Enseignant : [Baptiste Pesquet](http://bpesquet.fr).
 
 * [Application e-commerce](projects/e-commerce)
 
+## Examen
+
+* [Consignes pour l'examen](exams/exam)
+
 ## Ressources
 
 * [Code pour crypter un mot de passe avec Silex](https://gist.github.com/bpesquet/501c789f01e5bdeda90d)
